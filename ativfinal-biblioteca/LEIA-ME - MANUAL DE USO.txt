@@ -1,0 +1,56 @@
+-Manual do pré carregamento de usuários e coleções:
+
+Para facilitar o teste do programa, quando ele é executado, alguns usuários e publicações são adicionados 
+ao acervo e a coleção de usuários da biblioteca. Segue abaixo a lista com os acessos:
+
+*Publicações-
+-Livro1:
+Título: Harry Potter e o Enigma do Príncipe
+ID: 54321
+
+-Livro2:
+Título: Harry Potter e a Pedra Filosofal
+ID: 94451
+
+-Artigo1:
+Título: Realidade virtual e lógica do espaço 
+ID: 14852
+
+-Artigo2:
+Título: A ética na época da imaginação digital
+ID: 64821
+
+-Revista1:
+Título: Caras
+ID: 55198
+
+-Revista2:
+Título: Veja
+ID: 33485
+
+-Jornal1:
+Título: The New York Times
+ID: 67898
+
+-Jornal2:
+Título: Estado de Minas
+ID: 64431
+---------------------------------------------------------------------------------------------------------------------------------------
+*Usuários:
+
+-Aluno1:
+Login: thiago
+Senha: thiago123
+
+-Aluno2:
+Login: fulvio
+Senha: fulvio123
+
+-Professor1:
+Login: luciana
+Senha: luciana123
+
+
+-Professor2:
+Login:joao
+Senha:joao123
